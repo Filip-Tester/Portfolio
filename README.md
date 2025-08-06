@@ -55,8 +55,10 @@ Swoje dotychczasowe doświadczenia i podejście przekładam na pracę testera �
 
 ## 📄 DOKUMENTACJA
 
+- **Scenariusze testowe**  
 - **Przypadki testowe**  
 - **Zgłoszenia błędów**  
+- **Testy REST API w Postman**
 - **Zadania SQL**
 
 ---
