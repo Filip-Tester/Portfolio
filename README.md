@@ -53,5 +53,13 @@ Swoje dotychczasowe doświadczenia i podejście przekładam na pracę testera �
 
 ---
 
+## 📄 DOKUMENTACJA
+
+- **Przypadki testowe**  
+- **Zgłoszenia błędów**  
+- **Zadania SQL**
+
+---
+
 <sub>📌 Wersja: GitHub README – ostatnia aktualizacja: sierpień 2025</sub>
 
