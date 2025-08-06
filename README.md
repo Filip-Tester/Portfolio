@@ -16,7 +16,7 @@ Swoje dotychczasowe doświadczenia i podejście przekładam na pracę testera �
 Zachęcam do sprawdzenia mojej dokumentacji testerskiej.
 
 
-TECHNOLOGIE I NARZĘDZIA / TOOLS & TECH
+**TECHNOLOGIE I NARZĘDZIA / TOOLS & TECH**
 JIRA
 GIT
 SQL
@@ -26,7 +26,7 @@ TESTLINK
 BROWSERSTACK
 GOOGLE DEVTOOLS
 
-UMIEJĘTNOŚCI / SKILLS
+**UMIEJĘTNOŚCI / SKILLS**
 tworzenie przypadków testowych
 raportowanie błędów
 testowanie aplikacji
@@ -37,9 +37,7 @@ protokół HTTP
 podstawy python
 język angielski na poziomie B2
 
-
-
-KURSY / COURSES
+**KURSY / COURSES**
 Kurs testowania na platformie UDEMY
 MS SQL
 Python
