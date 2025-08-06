@@ -46,9 +46,9 @@ Swoje dotychczasowe doświadczenia i podejście przekładam na pracę testera �
 
 ## 🎓 KURSY / COURSES
 
-- Kurs testowania na platformie **UDEMY**  
+- **Kurs testowania manualnego UDEMY**  
 - **MS SQL**  
-- **Python**
+- **Python UDEMY**
 
 ---
 
