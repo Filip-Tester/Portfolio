@@ -24,7 +24,6 @@ Swoje dotychczasowe doświadczenia i podejście przekładam na pracę testera �
 - **GIT**  
 - **SQL**  
 - **POSTMAN**  
-- **XRAY**  
 - **TESTLINK**  
 - **BROWSERSTACK**  
 - **GOOGLE DEVTOOLS**
